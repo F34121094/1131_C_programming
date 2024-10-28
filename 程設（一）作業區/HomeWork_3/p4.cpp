@@ -19,6 +19,6 @@ int main(){
 	for(i;i<l;i++){
 		printf("%c",re[i]);
 	}
-	
+	printf("\n");
 	return 0;
 }

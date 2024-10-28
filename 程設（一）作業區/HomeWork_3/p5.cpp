@@ -10,7 +10,7 @@ int main(){
 	}
 	str3[l] = '\0';
 	strcat(str2,str3);
-	printf("%s",str2);
+	printf("%s\n",str2);
 	
 	return 0;
 }

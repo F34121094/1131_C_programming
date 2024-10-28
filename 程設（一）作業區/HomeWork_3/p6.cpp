@@ -15,7 +15,7 @@ int main(){
 		}
 	}
 	printf("Fried Pork!!!!\n");
-	printf("%d",time);
+	printf("%d\n",time);
 	
 	return 0;
 }
